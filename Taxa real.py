@@ -1,6 +1,6 @@
 import Funções
 
-j = Funções.inflacao()
+j = Funções.inflacao() # Variavel que possui como valor atribuido a função que responsável por retornar o valor da inflação
 
 def taxa_real(jn):
     te = (1 + (jn / 100)) / (1 + (j / 100))
