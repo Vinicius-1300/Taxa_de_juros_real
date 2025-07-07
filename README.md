@@ -10,3 +10,5 @@ A taxa de juros nominal (ou aparente) é o rendimento total informado, sem ajust
 
 Nominal/aparente: rendimento bruto
 Real: rendimento líquido, já descontada a inflação
+
+Fonte: https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/juros-real/
